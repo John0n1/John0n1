@@ -1,16 +1,14 @@
-## Hi there 👋
+```python
 
-<!--
-**John0n1/John0n1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+def get_energy_level():
+    day = datetime.now().strftime("%A")
 
-Here are some ideas to get you started:
+    if day == "Friday":
+        return "100%"  # Partytime
+    elif day == "Monday":
+        return "5%"   # The ultimate Hangover
+    elif day == "Tuesday":
+        return "40%"  # Slightly better than Monday, but still recovering
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
