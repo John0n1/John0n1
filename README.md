@@ -1,8 +1,7 @@
 ![github-header-image](https://github.com/user-attachments/assets/dd568e13-1734-456f-8d34-5f7a41d741f5)
 
-# 👋 Hi, I’m John Mitander
 
-🔹 Blockchain engineer & white hat  
+🔹 Blockchain & white hat  
 🔹 Python | JavaScript | Solidity | Rust  
 🔹 Focused on security, automation, and MEV innovation
 
