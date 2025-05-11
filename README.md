@@ -7,13 +7,13 @@
 
 > Clean code. Clean ops. Clean conscience.
 
-### 🚀 Current Focus
+### Current Focus
 - Flashloan & arbitrage bots  
 - Smart contract auditing  
 - Custom chain infra & node scripting  
 - OS-level diagnostics for secure deployments
 
-### 🛠 Featured Projects
+### Featured Projects
 - **ON1Builder** — MEV & flashloan framework for Ethereum  
 - Hardened Linux diagnostics toolchain for ops
 
