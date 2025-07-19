@@ -1,21 +1,15 @@
-🔹 Blockchain & white hat  
-🔹 Python | JavaScript | Solidity | Rust  
-🔹 Focused on security, automation, innovation and exploitation
+Current Focus - Security, automation, innovation, and exploitation.
 
-> Clean code. Clean ops. Clean conscience.
+> Clean code, clean ops, and a clean conscience.
 
-### Current Focus
-- Smart contract auditing  
-- Custom chain infra & node scripting  
+### What I'm Working On
+- Custom chain infra and 
+node scripting
 - OS-level diagnostics for secure deployments
+- Hardened Linux distribution
+toolchain for ops
 
-### Featured Projects
-- MEV & flashloan framework for Ethereum  
-- Hardened Linux diagnostics toolchain for ops
+### Hit Me Up
+- [john@on1.no](mailto:john@on1.no)
 
-### Reach me
-- [john@on1.no](mailto:john@on1.no)  
-
-
-<!-- Let's keep it tight. Real ones know. -->
-
+<!-- Keep it real. real ones know-->
