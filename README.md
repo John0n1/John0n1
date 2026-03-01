@@ -10,6 +10,6 @@ node scripting
 toolchain for ops
 
 ### Hit Me Up
-- [john@on1.no](mailto:john@on1.no)
+- [john@on1.no](mailto:john@mitander.dev)
 
 <!-- Keep it real. real ones know-->
