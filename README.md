@@ -10,6 +10,6 @@ node scripting
 toolchain for ops
 
 ### Hit Me Up
-- [john@on1.no](mailto:john@mitander.dev)
+john@oxidity.io
 
 <!-- Keep it real. real ones know-->
